@@ -232,6 +232,13 @@ the brigade and presented at the Collège de France, in Stéphane Mallat's Data
 Sciences chair seminar (29 January 2020), recorded in the chair's yearbook:
 [L'annuaire du Collège de France, 120 | 2023](https://journals.openedition.org/annuaire-cdf/18077?lang=en).
 
+What I contributed here is not the modelling — that came from the entrants
+credited at the top of this README, and they beat my baseline, which is what a
+well-posed challenge is for. It is the consolidation and the serving: the model
+sits behind an API and answers for several vehicles on demand, rather than
+running as an offline batch. Not perfect, but far enough along that the work
+became testable in real conditions by anyone who wanted to.
+
 The challenge itself remains open on
 [ENS Challenge Data](https://challengedata.ens.fr/challenges/21). The baseline
 here consolidates work generously shared by the participants credited at the
